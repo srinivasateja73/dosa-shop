@@ -3,6 +3,7 @@
 ## Plain Dosa
 * Dosa Batter
 * Light Oil
+* chutney
 
 ## Karam Dosa
 * Dosa Batter
