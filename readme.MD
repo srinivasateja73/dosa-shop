@@ -1,9 +1,9 @@
 # Dosa Shop
 
 ## karam dosa
- dosa batter
- added karam
- oil 
+ * dosa batter
+ * added karam
+ * oil 
 
 
 
